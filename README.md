@@ -1,4 +1,4 @@
-# (Github Repo Url)[github.com/Vadikus/practicalDL](https://github.com/kodeCraze/Ml_Cource_Code)
+# [Github Repo Url][github.com/Vadikus/practicalDL](https://github.com/kodeCraze/Ml_Cource_Code)
 
 ## "A Practical Guide to Deep Learning with TensorFlow 2.0 and Keras"
 
