@@ -1,7 +1,6 @@
-# github.com/Vadikus/practicalDL
-Class link: https://frontendmasters.com/courses/practical-machine-learning/
+# (Github Repo Url)[github.com/Vadikus/practicalDL](https://github.com/kodeCraze/Ml_Cource_Code)
 
-## Educational materials for Frontend Masters course "A Practical Guide to Deep Learning with TensorFlow 2.0 and Keras"
+## "A Practical Guide to Deep Learning with TensorFlow 2.0 and Keras"
 
 ## Setup
 
@@ -24,28 +23,7 @@ Note: Anaconda installation is recommended if you are not familiar with other Py
     jupyter notebook
     ```
 
-## Agenda/Curriculum
-    
-### 00) Introductions:
-- 🙋‍♂️ About myself 
-- About this course/workshop - quick demo & tools overview
-    - 🎨 Whiteboard drawings
-    - 📝 Jupyter Notebooks
-    - 👨🏻‍💻 Terminal commands (pip, jupyter -> !cmd, pyenv & conda)
-    - 💻 GitHub repos (for class, TFJS -> 🎥 [**pose demo**](https://storage.googleapis.com/tfjs-models/demos/posenet/camera.html) 🕺, books repos, TF/Keras demos)
-    - 🕸 Websites (TF, TF-hub)
-    - 📚 Books:
-	![books](./books.png)
-        - "Deep Learning with Python" by [François Chollet](https://github.com/fchollet/deep-learning-with-python-notebooks)
-        - "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems" by [Aurélien Géron](https://github.com/ageron/handson-ml2)
-        - "Hands-On Neural Networks with TensorFlow 2.0" by [Paolo Galeone](https://github.com/PacktPublishing/Hands-On-Neural-Networks-with-TensorFlow-2.0)
-- (plot) What is the difference between Statistics / Machine Learning / Deep Learning / Artificial Intelligence?
-@matvelloso. Shoes size example. Information reduction.
-- (plot) Compute + Algorithm + IO
-- (plot) Why now, AI? Chronological retrospective.
-- (plot) Hardware advances: SIMD, Tensor Cores, TPU, FPGA, Quantum Computing
-- (plot) HW, compilers, TensorFlow and Keras -> computational graph, memory allocation
-
+## Agenda
 
 ### 0) Don't be scared of Linear Regressions - it does not "byte"!.. Basic Terminology:
 - Linear regression Notebook
